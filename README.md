@@ -29,7 +29,15 @@
 
 
 
+<!-- ================= DEVOPS BRANDING ================= -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanish-devops&" alt="tanish-devops" /></p>                                                                                                                  
 
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanish-devops&theme=dracula&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanish-devops&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanish-devops&theme=dracula" />
+</p>
